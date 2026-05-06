@@ -17,4 +17,3 @@ Il Plugin presenta 3 effetti:
 
 I 3 effetti sono implementati in una catena modulabile che permette il posizionamento degli effetti in qualsiasi punto della catena secondo la preferenza dell'utente
 Sviluppi futuri per la catena -> Rendere il posizionamento degli effetti tramite un'operazione di Drag&Drop
-
