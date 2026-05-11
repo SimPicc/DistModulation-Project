@@ -45,7 +45,7 @@ Future developments for this effect -> Set the delay time in bpm, allow the Tone
 Future developments for this effect -> Increase the number of voices to make the effect more present
 
 The 3 effects are implemented in a modular chain that allows the effects to be positioned anywhere in the chain according to the user's preference
-Future developments for the chain -> Make the placement of effects via Drag and drop.
+Future developments for the chain -> Make the placement of effects via Drag&Drop.
 
 Listen to recorded examples using the plugin: https://github.com/SimPicc/DistModulation-Project/tree/main/Esempi%20Audio
 
