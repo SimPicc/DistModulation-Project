@@ -1,6 +1,6 @@
 # DistModulation-Project
 
-**ITALIANO**
+---**ITALIANO**---
 
 Plugin Audio in formato Vst3 di una Catena Modulare Di Effetti
 
@@ -25,7 +25,9 @@ Ascolta degli esempi registrati utilizzando il Plugin: https://github.com/SimPic
 
 Fai il Download del Plugin qui: https://github.com/SimPicc/DistModulation-Project/tree/main/Plugin%20Download
 
-**ENGLISH**
+
+
+---**ENGLISH**---
 
 Audio Plugin in VST3 format for a Modular Effects Chain
 
