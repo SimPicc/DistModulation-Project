@@ -1,6 +1,7 @@
 # DistModulation-Project
 
 **ITALIANO**
+
 Plugin Audio in formato Vst3 di una Catena Modulare Di Effetti
 
 Il Plugin presenta 3 effetti:
@@ -25,6 +26,7 @@ Ascolta degli esempi registrati utilizzando il Plugin: https://github.com/SimPic
 Fai il Download del Plugin qui: https://github.com/SimPicc/DistModulation-Project/tree/main/Plugin%20Download
 
 **ENGLISH**
+
 Audio Plugin in VST3 format for a Modular Effects Chain
 
 The plugin features 3 effects:
